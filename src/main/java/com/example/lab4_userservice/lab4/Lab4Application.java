@@ -1,4 +1,4 @@
-package com.example.lab4;
+package com.example.lab4_userservice.lab4;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
