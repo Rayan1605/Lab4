@@ -11,4 +11,5 @@ public interface RegistrationServiceClient {
     @PostMapping("/confirm")
     String someDetails(@RequestBody UserDetails userDetails);
 
+
 }
